@@ -111,11 +111,6 @@ Architecture: 12 specialized agents (churn, forecasting, market sentiment, netwo
 
 ---
 
-## 📊 GitHub Stats
-
-
----
-
 ## 🕺 Beyond the Terminal
 
 When I'm not wrangling dataframes or debugging agent pipelines, you'll find me:
