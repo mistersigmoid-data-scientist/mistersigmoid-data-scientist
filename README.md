@@ -12,10 +12,6 @@
 
 ### σ(x) → 1.0 &nbsp;|&nbsp; Senior Dev → AI Engineer &nbsp;|&nbsp; 🇧🇪 Ghent, Belgium
 
-[![GitHub](https://img.shields.io/badge/GitHub-michiel--rondelez-181717?style=flat-square&logo=github)](https://github.com/michiel-rondelez)
-[![Email](https://img.shields.io/badge/Email-michiel.rondelez1%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:michiel.rondelez1@gmail.com)
-![Visitors](https://komarev.com/ghpvc/?username=michiel-rondelez&style=flat-square&color=blueviolet)
-
 </div>
 
 ---
