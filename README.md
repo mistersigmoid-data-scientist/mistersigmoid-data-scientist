@@ -2,17 +2,19 @@
 <div align="center">
 
 ```
-       _____  __  __ _         _                 _____ _                       _     _ 
-      |  __ \|  \/  (_)       | |               / ____(_)                     (_)   | |
-      | |__) | \  / |_ _ __ ___| |_ ___ _ __   | (___  _  __ _ _ __ ___   ___  _  __| |
-      |  _  /| |\/| | | '__/ __| __/ _ \ '__|   \___ \| |/ _` | '_ ` _ \ / _ \| |/ _` |
-      | | \ \| |  | | | |  \__ \ ||  __/ |      ____) | | (_| | | | | | | (_) | | (_| |
-      |_|  \_\_|  |_|_|_|  |___/\__\___|_|     |_____/|_|\__, |_| |_| |_|\___/|_|\__,_|
-                                                           __/ |                        
-                                                          |___/                         
+ __  __ _     _              ____  _                      _     _ 
+|  \/  (_)___| |_ ___ _ __  / ___|(_) __ _ _ __ ___   ___ (_) __| |
+| |\/| | / __| __/ _ \ '__| \___ \| |/ _` | '_ ` _ \ / _ \| |/ _` |
+| |  | | \__ \ ||  __/ |     ___) | | (_| | | | | | | (_) | | (_| |
+|_|  |_|_|___/\__\___|_|    |____/|_|\__, |_| |_| |_|\___/|_|\__,_|
+                                      |___/                          
 ```
 
 ### σ(x) → 1.0 &nbsp;|&nbsp; Senior Dev → AI Engineer &nbsp;|&nbsp; 🇧🇪 Ghent, Belgium
+
+[![GitHub](https://img.shields.io/badge/GitHub-michiel--rondelez-181717?style=flat-square&logo=github)](https://github.com/michiel-rondelez)
+[![Email](https://img.shields.io/badge/Email-michiel.rondelez1%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:michiel.rondelez1@gmail.com)
+![Visitors](https://komarev.com/ghpvc/?username=michiel-rondelez&style=flat-square&color=blueviolet)
 
 </div>
 
@@ -114,13 +116,6 @@ Architecture: 12 specialized agents (churn, forecasting, market sentiment, netwo
 
 ## 📊 GitHub Stats
 
-<div align="center">
-
-![Michiel's GitHub Stats](https://github-readme-stats.vercel.app/api?username=michiel-rondelez&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=michiel-rondelez&layout=compact&theme=tokyonight&hide_border=true)
-
-</div>
 
 ---
 
