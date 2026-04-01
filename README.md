@@ -27,6 +27,7 @@ I don't just build models. I build **systems that go to production**.
 
 ```python
 me = {
+    "name":        "Michiel Rondelez",
     "alias":       "Mister Sigmoid",
     "location":    "Ghent 🍺",
     "background":  "Full-stack .NET → AI/Data Engineer",
