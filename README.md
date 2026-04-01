@@ -21,7 +21,7 @@
 > *"A sigmoid doesn't rush. It starts slow, accelerates through the inflection point, and asymptotically approaches 1."*  
 > *That's my career arc. I'm somewhere past the inflection point.* 🚀
 
-Hi my name is **Michiel Rondelez** aka **Mister Sigmoid** I'm a **Senior .NET developer turned AI/Data engineer** — 7 years of shipping production software, now obsessed with building things that *think*. Currently deep in an intensive AI & Data Science bootcamp at **BeCode Ghent**, stacking ML, pipelines, and agentic systems on top of a solid engineering foundation.
+Hi my name is **Michiel Rondelez** aka **Mister Sigmoid**. I'm a **Senior .NET developer turned AI/Data engineer** — 7 years of shipping production software, now obsessed with building things that *think*. Currently deep in an intensive AI & Data Science bootcamp at **BeCode Ghent**, stacking ML, pipelines, and agentic systems on top of a solid engineering foundation.
 
 I don't just build models. I build **systems that go to production**.
 
